@@ -19,7 +19,7 @@ Você pode ver o protótipo visual aqui:
 - Proteções básicas de segurança (validação de campos, bloqueios, evitar operações inválidas)  
 
 ## 🏗️ Arquitetura e tecnologias utilizadas  
-- Linguagem de programação: ex: Python / Java / outra  
+- Linguagem de programação: Python  
 - Banco de dados: ex: SQLite / MySQL / outro  
 - Interface / protótipo visual: Canva  
 - Controle de versão: Git / GitHub  
