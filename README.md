@@ -71,23 +71,6 @@ Você pode ver o protótipo visual aqui:
 ---
 
 ⚙️ Como Executar
-## Como Executar
-
-| Requisitos | Descrição |
-|--------|------------|
-| **REQUISITOS** |💡 Requisitos: Python 3.8 ou superior|
-| **RNF02** | Interface **via terminal**. |
-| **RNF03** | Tempo de resposta rápido |
-| **RNF04** | Dados mantidos **em memória**, sem uso de arquivos ou banco de dados externo. |
-| **RNF05** | Senhas armazenadas com **hash SHA-256**. |
-| **RNF06** | Sistema **intuitivo e fácil de usar**, mensagens claras no terminal. |
-| **RNF07** | Compatível com **Python 3.8 ou superior**. |
-| **RNF08** | Validação de entradas para impedir dados inválidos ou negativos. |
-| **RNF09** | Código legível, comentado e com **docstrings**. |
-
-
-
-
 
 💡 Requisitos: Python 3.8 ou superior
 
