@@ -71,7 +71,10 @@ Você pode ver o protótipo visual aqui:
 ---
 
 ⚙️ Como Executar
+## Como Executar
 
+| Requisitos | Descrição |
+|--------|------------|
 | **REQUISITOS** |💡 Requisitos: Python 3.8 ou superior|
 | **RNF02** | Interface **via terminal**. |
 | **RNF03** | Tempo de resposta rápido |
