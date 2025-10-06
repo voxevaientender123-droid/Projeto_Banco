@@ -8,7 +8,7 @@ Simulação de sistema bancário com criação de contas e foco em segurança.
 O *Simulador Banco FEVP* é um protótipo de aplicativo bancário que permite ao usuário criar contas, realizar operações bancárias e visualizar extratos, com segurança integrada. A ideia é demonstrar conceitos de gerenciamento financeiro, autenticação e boas práticas de segurança em um contexto controlado.
 
 Você pode ver o protótipo visual aqui:  
-[Protótipo no Canva – Simulador Banco FEVP](https://facsenacpe-tech.my.canva.site/simulador-banco-fevp)
+[Protótipo no Canva – Simulador Banco FEVP](https://facsenacpe-tech.my.canva.site/banco-fevp4)
 
 ## 🔐 Funcionalidades principais  
 - Criação de conta com dados iniciais (nome, CPF, senha)  
