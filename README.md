@@ -118,7 +118,7 @@ Permitir categorias de pagamento e resumo mensal.
 
 👨‍💻 Autores
 
-Eduardo 
+Eduardo Henrique 
 Felipe Constantino
 José Pedro
 José Vicenth
